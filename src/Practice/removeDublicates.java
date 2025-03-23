@@ -8,6 +8,7 @@ public class removeDublicates {
     }
 
     // using void return type:
+    // skipping the character a;
     public static void skip(String p, String up){
         if(up.isEmpty()){
             System.out.println(p);
@@ -23,6 +24,7 @@ public class removeDublicates {
     }
 
     // using string return type:
+    // skipping the character a;
     public static String skip1(String up){
         if(up.isEmpty()){
             return "";
