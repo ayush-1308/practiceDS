@@ -26,4 +26,7 @@ public class subsetArray {
         }
         return outer;
     }
+
+    // Now with arrays that contains duplicates
+   
 }
