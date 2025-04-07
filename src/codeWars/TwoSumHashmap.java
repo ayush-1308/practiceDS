@@ -14,11 +14,13 @@ public class TwoSumHashmap {
 
         for(int i = 0; i < nums.length ; i++){
             int num = target - nums[i];
+            
             if(map.containsKey(num)){
                 return new int[]{map.get(num), i};
             }
             map.put(nums[i], i);
         }
+      //  map.getValue();
         return new int[]{-1, -1};
     }
 }
