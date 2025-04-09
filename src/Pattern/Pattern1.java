@@ -218,4 +218,8 @@ public class Pattern1 {
             System.out.println();
         }
     }
+
+    static void pattern10(int n){
+        
+    }
 }
