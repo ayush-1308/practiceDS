@@ -12,7 +12,7 @@ public class threeSum {
 
     static int threeSumClosest(int[] nums, int target) {
         Arrays.sort(nums);
-
+//{-4,-1,1,2}
         int sum = 0;
         int left = 0;
         int right = nums.length -1;

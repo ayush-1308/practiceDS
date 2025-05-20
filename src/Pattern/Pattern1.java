@@ -10,7 +10,8 @@ public class Pattern1 {
         //pattern6(5);
         //pattern7(5);
         //pattern8(5);
-        pattern9(5);
+        //pattern9(5);
+        pattern10(5);
     }
 
     /*
@@ -218,8 +219,22 @@ public class Pattern1 {
             System.out.println();
         }
     }
-
-    static void pattern10(int n){
-        
-    }
+        public static void pattern10(int n) {
+            int rows = 4;
+            for (int i = 0; i < rows; i++) {
+                // Left stars
+                for (int j = 0; j < rows - i; j++) {
+                    System.out.print("*");
+                }
+                // Spaces in the middle
+                for (int j = 0; j < 2 * i; j++) {
+                    System.out.print(" ");
+                }
+                // Right stars
+                for (int j = 0; j < rows - i; j++) {
+                    System.out.print("*");
+                }
+                System.out.println();
+            }
+        }
 }
