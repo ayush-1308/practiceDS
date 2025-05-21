@@ -5,58 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="094c5803-6d5a-4906-b250-8577ce176dd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice/Backtracking/MazeProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Backtracking/countPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/BestTimeToBuy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/ContainerWithMOstWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/FindMissingNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/Harmonious.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/IntersectionArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/Jumpgame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/Leaders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/MatrixReshape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/MaxProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/MaximumSubaaray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/MinimumSizeSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/MissingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/NextGreaterElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/PlaceFlowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/PrefixSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/RelativeRanks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/RotateAray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/TemoAttack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/basic/EquiElem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/basic/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/basic/PrintAccordingly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/moveZeroes/MoveZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/string/AllOccurence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/string/CheckIfPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/string/KthDistinctString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/string/LengthOfLastWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/string/MinimumMoves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/string/NumberOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/string/ReversePrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/string/ReverseWordInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/string/getLucky.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/string/palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/Sorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeWars/StringBu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructures/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructures/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructures/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructures/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/Pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern/Pattern1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/subset/subsetArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/subset/subsetArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeWars/AddStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeWars/AddStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeWars/threeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeWars/threeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
