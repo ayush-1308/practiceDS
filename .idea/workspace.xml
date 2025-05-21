@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="094c5803-6d5a-4906-b250-8577ce176dd4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Practice/string/GCDStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +40,7 @@
     "Application.ContainerWithMOstWater.executor": "Run",
     "Application.EquiElem.executor": "Run",
     "Application.EquiliriumElement.executor": "Run",
+    "Application.GCDStrings.executor": "Run",
     "Application.Harmonious.executor": "Run",
     "Application.IntersectionArrays.executor": "Run",
     "Application.Jumpgame.executor": "Run",
@@ -65,13 +67,13 @@
     "last_opened_file_path": "O:/Spring/demoApp"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MaxProduct">
-    <configuration name="Harmonious" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.array.Harmonious" />
+  <component name="RunManager" selected="Application.GCDStrings">
+    <configuration name="GCDStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.string.GCDStrings" />
       <module name="DSA_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.array.*" />
+          <option name="PATTERN" value="Practice.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GCDStrings" />
         <item itemvalue="Application.MaxProduct" />
         <item itemvalue="Application.PlaceFlowers" />
         <item itemvalue="Application.KthDistinctString" />
         <item itemvalue="Application.Jumpgame" />
-        <item itemvalue="Application.Harmonious" />
       </list>
     </recent_temporary>
   </component>
