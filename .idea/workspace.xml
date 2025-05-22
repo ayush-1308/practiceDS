@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="094c5803-6d5a-4906-b250-8577ce176dd4" name="Changes" comment="" />
+    <list default="true" id="094c5803-6d5a-4906-b250-8577ce176dd4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Practice/array/KidsWithGreatestNoOFCandies.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,42 +31,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AllOccurence.executor": "Run",
-    "Application.BestTimeToBuy.executor": "Run",
-    "Application.CheckIfPrefix.executor": "Run",
-    "Application.ContainerWithMOstWater.executor": "Run",
-    "Application.EquiElem.executor": "Run",
-    "Application.EquiliriumElement.executor": "Run",
-    "Application.GCDStrings.executor": "Run",
-    "Application.Harmonious.executor": "Run",
-    "Application.IntersectionArrays.executor": "Run",
-    "Application.Jumpgame.executor": "Run",
-    "Application.KthDistinctString.executor": "Run",
-    "Application.Leaders.executor": "Run",
-    "Application.MatrixReshape.executor": "Debug",
-    "Application.MaxProduct.executor": "Run",
-    "Application.MergeSortedArray.executor": "Run",
-    "Application.MinimumMoves.executor": "Debug",
-    "Application.MissingNumbers.executor": "Run",
-    "Application.NextGreaterElement.executor": "Debug",
-    "Application.NumberOfStrings.executor": "Run",
-    "Application.PlaceFlowers.executor": "Run",
-    "Application.PrintAccordingly.executor": "Run",
-    "Application.ReversePrefix.executor": "Debug",
-    "Application.Sorting.executor": "Run",
-    "Application.StringBu.executor": "Run",
-    "Application.TemoAttack.executor": "Debug",
-    "Application.getLucky.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "O:/Spring/demoApp"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AllOccurence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BestTimeToBuy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckIfPrefix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContainerWithMOstWater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EquiElem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EquiliriumElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GCDStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Harmonious.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntersectionArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Jumpgame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KthDistinctString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Leaders.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatrixReshape.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MaxProduct.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinimumMoves.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MissingNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NextGreaterElement.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.NumberOfStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PlaceFlowers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintAccordingly.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReversePrefix.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Sorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TemoAttack.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.getLucky.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;O:/Spring/demoApp&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.GCDStrings">
+}</component>
+  <component name="RunManager" selected="Application.KidsWithGreatestNoOFCandies">
     <configuration name="GCDStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.string.GCDStrings" />
       <module name="DSA_Practice" />
@@ -78,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jumpgame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.array.Jumpgame" />
+    <configuration name="KidsWithGreatestNoOFCandies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.array.KidsWithGreatestNoOFCandies" />
       <module name="DSA_Practice" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KidsWithGreatestNoOFCandies" />
         <item itemvalue="Application.GCDStrings" />
         <item itemvalue="Application.MaxProduct" />
         <item itemvalue="Application.PlaceFlowers" />
         <item itemvalue="Application.KthDistinctString" />
-        <item itemvalue="Application.Jumpgame" />
       </list>
     </recent_temporary>
   </component>
