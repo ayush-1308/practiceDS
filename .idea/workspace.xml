@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="094c5803-6d5a-4906-b250-8577ce176dd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/ProductExceptItself.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/array/IncreasingTriplet334.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,7 @@
     "Application.EquiliriumElement.executor": "Run",
     "Application.GCDStrings.executor": "Run",
     "Application.Harmonious.executor": "Run",
+    "Application.IncreasingTriplet334.executor": "Run",
     "Application.IntersectionArrays.executor": "Run",
     "Application.Jumpgame.executor": "Run",
     "Application.KidsWithGreatestNoOFCandies.executor": "Run",
@@ -71,13 +72,13 @@
     "last_opened_file_path": "O:/Spring/demoApp"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ProductExceptItself">
-    <configuration name="GCDStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.string.GCDStrings" />
+  <component name="RunManager" selected="Application.IncreasingTriplet334">
+    <configuration name="IncreasingTriplet334" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.array.IncreasingTriplet334" />
       <module name="DSA_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.string.*" />
+          <option name="PATTERN" value="Practice.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IncreasingTriplet334" />
         <item itemvalue="Application.ProductExceptItself" />
         <item itemvalue="Application.ReverseWordInAString" />
         <item itemvalue="Application.ReverseVowel" />
         <item itemvalue="Application.KidsWithGreatestNoOFCandies" />
-        <item itemvalue="Application.GCDStrings" />
       </list>
     </recent_temporary>
   </component>
