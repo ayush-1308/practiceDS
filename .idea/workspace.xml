@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="094c5803-6d5a-4906-b250-8577ce176dd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice/string/ReverseWordInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/array/ProductExceptItself.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,9 +56,10 @@
     "Application.NumberOfStrings.executor": "Run",
     "Application.PlaceFlowers.executor": "Run",
     "Application.PrintAccordingly.executor": "Run",
+    "Application.ProductExceptItself.executor": "Run",
     "Application.ReversePrefix.executor": "Debug",
     "Application.ReverseVowel.executor": "Run",
-    "Application.ReverseWordInAString.executor": "Debug",
+    "Application.ReverseWordInAString.executor": "Run",
     "Application.Sorting.executor": "Run",
     "Application.StringBu.executor": "Run",
     "Application.TemoAttack.executor": "Debug",
@@ -70,7 +71,7 @@
     "last_opened_file_path": "O:/Spring/demoApp"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseWordInAString">
+  <component name="RunManager" selected="Application.ProductExceptItself">
     <configuration name="GCDStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.string.GCDStrings" />
       <module name="DSA_Practice" />
@@ -97,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.array.MaxProduct" />
+    <configuration name="ProductExceptItself" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.array.ProductExceptItself" />
       <module name="DSA_Practice" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductExceptItself" />
         <item itemvalue="Application.ReverseWordInAString" />
         <item itemvalue="Application.ReverseVowel" />
         <item itemvalue="Application.KidsWithGreatestNoOFCandies" />
         <item itemvalue="Application.GCDStrings" />
-        <item itemvalue="Application.MaxProduct" />
       </list>
     </recent_temporary>
   </component>
@@ -169,19 +170,15 @@
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Practice/string/ReverseWordInAString.java</url>
-          <line>8</line>
-          <properties class="Practice.string.ReverseWordInAString" method="reverseString">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="4" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Practice/array/ProductExceptItself.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
