@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="094c5803-6d5a-4906-b250-8577ce176dd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/MoveZEROES.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/string/CheckForSubsequencce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/array/MaxNumberOfSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +50,7 @@
     "Application.KthDistinctString.executor": "Run",
     "Application.Leaders.executor": "Run",
     "Application.MatrixReshape.executor": "Debug",
+    "Application.MaxNumberOfSum.executor": "Debug",
     "Application.MaxProduct.executor": "Run",
     "Application.MergeSortedArray.executor": "Run",
     "Application.MinimumMoves.executor": "Debug",
@@ -76,7 +75,7 @@
     "last_opened_file_path": "O:/Spring/demoApp"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CheckForSubsequencce">
+  <component name="RunManager" selected="Application.MaxNumberOfSum">
     <configuration name="CheckForSubsequencce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.string.CheckForSubsequencce" />
       <module name="DSA_Practice" />
@@ -103,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductExceptItself" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.array.ProductExceptItself" />
+    <configuration name="MaxNumberOfSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.array.MaxNumberOfSum" />
       <module name="DSA_Practice" />
       <extension name="coverage">
         <pattern>
@@ -116,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseWordInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.string.ReverseWordInAString" />
+    <configuration name="ProductExceptItself" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.array.ProductExceptItself" />
       <module name="DSA_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.string.*" />
+          <option name="PATTERN" value="Practice.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxNumberOfSum" />
         <item itemvalue="Application.CheckForSubsequencce" />
         <item itemvalue="Application.StringCompression" />
         <item itemvalue="Application.IncreasingTriplet334" />
         <item itemvalue="Application.ProductExceptItself" />
-        <item itemvalue="Application.ReverseWordInAString" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +182,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Practice/array/MaxNumberOfSum.java</url>
+          <line>9</line>
+          <properties class="Practice.array.MaxNumberOfSum" method="maxOperations">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
