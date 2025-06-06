@@ -17,21 +17,24 @@ public class MaxNumberOfVowels {
         set.add('o');
         set.add('u');
 
-        int i = 0;
-        int j = 0;
-        int count = 0;
-        while(j <= s.length()) {
-            if(set.contains(s.charAt(j))) {
-                count++;
-            } else {
-                i = j;
-                count = 0;
+        int current = 0;
+        int max = 0;
+        for(int i = 0; i < k; i++) {
+            if(set.contains(s.charAt(i))) {
+                current++;
             }
-            if(count == k) {
-                return k;
-            }
-            j++;
         }
-        return count;
+
+        max = current;
+        for(int i = k; i < s.length(); i++) {
+            if(set.contains(s.charAt(i - k))) {
+                current--;
+            }
+            if(set.contains(s.charAt(i))) {
+                current++;
+            }
+            max = Math.max(current, max);
+        }
+        return max;
     }
 }
