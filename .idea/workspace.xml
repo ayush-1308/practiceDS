@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="094c5803-6d5a-4906-b250-8577ce176dd4" name="Changes" comment="" />
+    <list default="true" id="094c5803-6d5a-4906-b250-8577ce176dd4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Practice/array/FindPivotIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +42,7 @@
     "Application.ContainerWithMaxWater.executor": "Run",
     "Application.EquiElem.executor": "Run",
     "Application.EquiliriumElement.executor": "Run",
+    "Application.FindPivotIndex.executor": "Debug",
     "Application.GCDStrings.executor": "Run",
     "Application.Harmonious.executor": "Run",
     "Application.IncreasingTriplet334.executor": "Run",
@@ -75,13 +79,13 @@
     "last_opened_file_path": "O:/Spring/demoApp"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MaxNumberOfVowels">
-    <configuration name="CheckForSubsequencce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.string.CheckForSubsequencce" />
+  <component name="RunManager" selected="Application.FindPivotIndex">
+    <configuration name="ContainerWithMaxWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.array.ContainerWithMaxWater" />
       <module name="DSA_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.string.*" />
+          <option name="PATTERN" value="Practice.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainerWithMaxWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.array.ContainerWithMaxWater" />
+    <configuration name="FindPivotIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.array.FindPivotIndex" />
       <module name="DSA_Practice" />
       <extension name="coverage">
         <pattern>
@@ -143,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindPivotIndex" />
         <item itemvalue="Application.MaxNumberOfVowels" />
         <item itemvalue="Application.MaxAvgSubarray" />
         <item itemvalue="Application.ContainerWithMaxWater" />
         <item itemvalue="Application.MaxNumberOfSum" />
-        <item itemvalue="Application.CheckForSubsequencce" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +195,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Practice/array/FindPivotIndex.java</url>
+          <line>9</line>
+          <properties class="Practice.array.FindPivotIndex" method="findPivot">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
