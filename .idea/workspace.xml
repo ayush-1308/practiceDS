@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="094c5803-6d5a-4906-b250-8577ce176dd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/FindDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/string/MaxDifference.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,54 +32,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AllOccurence.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BestTimeToBuy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CheckForSubsequencce.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CheckIfPrefix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContainerWithMOstWater.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContainerWithMaxWater.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EquiElem.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EquiliriumElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindPivotIndex.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.GCDStrings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Harmonious.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IncreasingTriplet334.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IntersectionArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Jumpgame.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KidsWithGreatestNoOFCandies.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KthDistinctString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Leaders.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MatrixReshape.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MaxAvgSubarray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxNumberOfSum.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MaxNumberOfVowels.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxProduct.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinimumMoves.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MissingNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NextGreaterElement.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.NumberOfStrings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PlaceFlowers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintAccordingly.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProductExceptItself.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReversePrefix.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ReverseVowel.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseWordInAString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sorting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringBu.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringCompression.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TemoAttack.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.getLucky.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;O:/Spring/demoApp&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AllOccurence.executor": "Run",
+    "Application.BestTimeToBuy.executor": "Run",
+    "Application.CheckForSubsequencce.executor": "Run",
+    "Application.CheckIfPrefix.executor": "Run",
+    "Application.ContainerWithMOstWater.executor": "Run",
+    "Application.ContainerWithMaxWater.executor": "Run",
+    "Application.EquiElem.executor": "Run",
+    "Application.EquiliriumElement.executor": "Run",
+    "Application.FindPivotIndex.executor": "Debug",
+    "Application.GCDStrings.executor": "Run",
+    "Application.Harmonious.executor": "Run",
+    "Application.IncreasingTriplet334.executor": "Run",
+    "Application.IntersectionArrays.executor": "Run",
+    "Application.Jumpgame.executor": "Run",
+    "Application.KidsWithGreatestNoOFCandies.executor": "Run",
+    "Application.KthDistinctString.executor": "Run",
+    "Application.Leaders.executor": "Run",
+    "Application.MatrixReshape.executor": "Debug",
+    "Application.MaxAvgSubarray.executor": "Run",
+    "Application.MaxDifference.executor": "Run",
+    "Application.MaxNumberOfSum.executor": "Debug",
+    "Application.MaxNumberOfVowels.executor": "Run",
+    "Application.MaxProduct.executor": "Run",
+    "Application.MergeSortedArray.executor": "Run",
+    "Application.MinimumMoves.executor": "Debug",
+    "Application.MissingNumbers.executor": "Run",
+    "Application.NextGreaterElement.executor": "Debug",
+    "Application.NumberOfStrings.executor": "Run",
+    "Application.PlaceFlowers.executor": "Run",
+    "Application.PrintAccordingly.executor": "Run",
+    "Application.ProductExceptItself.executor": "Run",
+    "Application.ReversePrefix.executor": "Debug",
+    "Application.ReverseVowel.executor": "Run",
+    "Application.ReverseWordInAString.executor": "Run",
+    "Application.Sorting.executor": "Run",
+    "Application.StringBu.executor": "Run",
+    "Application.StringCompression.executor": "Run",
+    "Application.TemoAttack.executor": "Debug",
+    "Application.getLucky.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "O:/Spring/demoApp"
   }
-}</component>
-  <component name="RunManager" selected="Application.FindPivotIndex">
+}]]></component>
+  <component name="RunManager" selected="Application.MaxDifference">
     <configuration name="ContainerWithMaxWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.array.ContainerWithMaxWater" />
       <module name="DSA_Practice" />
@@ -119,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxNumberOfSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.array.MaxNumberOfSum" />
+    <configuration name="MaxDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.string.MaxDifference" />
       <module name="DSA_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.array.*" />
+          <option name="PATTERN" value="Practice.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxDifference" />
         <item itemvalue="Application.FindPivotIndex" />
         <item itemvalue="Application.MaxNumberOfVowels" />
         <item itemvalue="Application.MaxAvgSubarray" />
         <item itemvalue="Application.ContainerWithMaxWater" />
-        <item itemvalue="Application.MaxNumberOfSum" />
       </list>
     </recent_temporary>
   </component>
