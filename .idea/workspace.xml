@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="094c5803-6d5a-4906-b250-8577ce176dd4" name="Changes" comment="" />
+    <list default="true" id="094c5803-6d5a-4906-b250-8577ce176dd4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Practice/array/DeleteGreatestValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/array/EqualRowAndCol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +41,7 @@
     "Application.CheckIfPrefix.executor": "Run",
     "Application.ContainerWithMOstWater.executor": "Run",
     "Application.ContainerWithMaxWater.executor": "Run",
+    "Application.EqualRowAndCol.executor": "Debug",
     "Application.EquiElem.executor": "Run",
     "Application.EquiliriumElement.executor": "Run",
     "Application.FindPivotIndex.executor": "Debug",
@@ -50,7 +55,7 @@
     "Application.Leaders.executor": "Run",
     "Application.MatrixReshape.executor": "Debug",
     "Application.MaxAvgSubarray.executor": "Run",
-    "Application.MaxDifference.executor": "Run",
+    "Application.MaxDifference.executor": "Debug",
     "Application.MaxNumberOfSum.executor": "Debug",
     "Application.MaxNumberOfVowels.executor": "Run",
     "Application.MaxProduct.executor": "Run",
@@ -77,9 +82,9 @@
     "last_opened_file_path": "O:/Spring/demoApp"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MaxDifference">
-    <configuration name="ContainerWithMaxWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.array.ContainerWithMaxWater" />
+  <component name="RunManager" selected="Application.EqualRowAndCol">
+    <configuration name="EqualRowAndCol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.array.EqualRowAndCol" />
       <module name="DSA_Practice" />
       <extension name="coverage">
         <pattern>
@@ -145,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EqualRowAndCol" />
         <item itemvalue="Application.MaxDifference" />
         <item itemvalue="Application.FindPivotIndex" />
         <item itemvalue="Application.MaxNumberOfVowels" />
         <item itemvalue="Application.MaxAvgSubarray" />
-        <item itemvalue="Application.ContainerWithMaxWater" />
       </list>
     </recent_temporary>
   </component>
