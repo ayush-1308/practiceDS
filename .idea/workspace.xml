@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="094c5803-6d5a-4906-b250-8577ce176dd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice/array/MinMaxDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/array/FindLength.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,7 @@
     "Application.EqualRowAndCol.executor": "Debug",
     "Application.EquiElem.executor": "Run",
     "Application.EquiliriumElement.executor": "Run",
+    "Application.FindLength.executor": "Debug",
     "Application.FindPivotIndex.executor": "Debug",
     "Application.GCDStrings.executor": "Run",
     "Application.Harmonious.executor": "Run",
@@ -82,9 +83,22 @@
     "last_opened_file_path": "O:/Spring/demoApp"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MinMaxDifference">
+  <component name="RunManager" selected="Application.FindLength">
     <configuration name="EqualRowAndCol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.array.EqualRowAndCol" />
+      <module name="DSA_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.array.FindLength" />
       <module name="DSA_Practice" />
       <extension name="coverage">
         <pattern>
@@ -122,19 +136,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxNumberOfVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.array.MaxNumberOfVowels" />
-      <module name="DSA_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MinMaxDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.array.MinMaxDifference" />
       <module name="DSA_Practice" />
@@ -150,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindLength" />
         <item itemvalue="Application.MinMaxDifference" />
         <item itemvalue="Application.EqualRowAndCol" />
         <item itemvalue="Application.MaxDifference" />
         <item itemvalue="Application.FindPivotIndex" />
-        <item itemvalue="Application.MaxNumberOfVowels" />
       </list>
     </recent_temporary>
   </component>
@@ -207,6 +208,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Practice/array/FindLength.java</url>
+          <line>8</line>
+          <properties class="Practice.array.FindLength" method="findLengthOfLCIS">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
